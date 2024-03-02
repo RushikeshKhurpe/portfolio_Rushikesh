@@ -117,7 +117,7 @@ const config = {
     {
       title: 'Hack-o-Fiesta',
       description:
-        'Achieved Rank 4 in the hackathon organized by Axios. A blockchain project developed during hackathon, designed to facilitate cryptocurrency trading.',
+        'Achieved Rank 4 in the hackathon organized by Axios. A project developed during hackathon, hostel-focused web app facilitating seamless gadget and item sharing among students, enhancing campus collaboration.',
       imageUrl: 'https://pbs.twimg.com/profile_images/1620676116724981760/5Nf0bmbG_400x400.jpg',
       link: 'https://hackofiesta.devfolio.co/overview',
     },
