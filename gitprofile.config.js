@@ -47,7 +47,7 @@ const config = {
     'Microservices',
     'Docker',
     'AWS',
-    'Kubernetes'
+    'Kubernetes',
     'IntelliJ',
     'VS Code'
   ],
