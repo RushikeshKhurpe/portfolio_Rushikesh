@@ -32,29 +32,39 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1C8REBRZYyZyxdi8aIJ6lgneZkxFVCQni/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1Lj7lfjnjB_ZWDR14wVOF_lclfDbNHiB2/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'C',
-    'C++',
-    'JavaScript',
-    'Node.js',
     'Java',
+    'C++',
     'SpringBoot',
     'MySQL',
     'MongoDb',
     'Git',
-    'CSS',
-    'Bootstrap',
-    'Swift',
+    'Redis',
+    'Kafka',
+    'Grpc',
+    'Microservices',
+    'Docker',
+    'AWS',
+    'Kubernetes'
+    'IntelliJ',
     'VS Code'
   ],
   experiences: [
     {
       company: 'Upstox',
+      position: 'SDE-1',
+      from: 'September 2024',
+      to: 'present',
+      companyLink: 'https://www.upstox.com/',
+      description: '',
+    },
+    {
+      company: 'Upstox',
       position: 'SDE Intern',
       from: 'February 2024',
-      to: 'present',
+      to: 'August 2024',
       companyLink: 'https://www.upstox.com/',
       description: '',
     },
@@ -64,7 +74,7 @@ const config = {
       from: 'October 2023',
       to: 'January 2024',
       companyLink: 'https://www.chegg.com/',
-      description: 'how are you',
+      description: '',
     },
     {
       company: 'Van.ai (Stealth Startup)',
@@ -72,7 +82,7 @@ const config = {
       from: 'April 2023',
       to: 'June 2023',
       companyLink: '',
-      description: 'how are you',
+      description: '',
     },
     // {
     //   company: 'Company Name',
